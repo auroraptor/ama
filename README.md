@@ -11,7 +11,7 @@ Anything means anything. Personal questions. Money. Work. Life. Code. Music. Tea
 * Ensure your question has not already been answered.
 * Use a succinct title and description.
 * Bugs & feature requests should be opened on the relevant issue tracker.
-* Support questions are better asked on Stack Overflow and maths questions on Math Exchange.
+* Support questions are better asked on [Stack Overflow](https://stackoverflow.com) and maths questions on [Math Exchange](https://math.stackexchange.com).
 * Be nice, civil and polite (as always).
 * 🌟 If you include at least one emoji in your question, the feedback might come faster! 
 
@@ -19,4 +19,6 @@ Anything means anything. Personal questions. Money. Work. Life. Code. Music. Tea
 [In English / На английском](https://github.com/auroraptor/ama) 🇬🇧🇺🇸 or [In Russian / На русском](https://github.com/auroraptor/ama.ru) 🇷🇺.
 
 ## Links
+* [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_(%22Ask_Me_Anything%22))
 * [Read more AMAs](https://github.com/sindresorhus/amas)
+
