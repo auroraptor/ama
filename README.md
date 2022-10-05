@@ -15,5 +15,8 @@ Anything means anything. Personal questions. Money. Work. Life. Code. Music. Tea
 * Be nice, civil and polite (as always).
 * 🌟 If you include at least one emoji in your question, the feedback might come faster! 
 
-### In Russian / На русском 
+## In Russian / На русском 
 In English / На английском 🇬🇧🇺🇸 or In Russian / На русском 🇷🇺.
+
+## Links
+* [Read more AMAs](https://github.com/sindresorhus/amas)
